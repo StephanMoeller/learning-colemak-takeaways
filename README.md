@@ -9,7 +9,6 @@
 - Hand in and don't give up. Keep doing it.
 - Don't compare your speed and progress to others. I have been learning colemak for 5 months and I was waaaaay slower in progressing than all the youtubers I was watching for advice.
 - Some people may encourage you on your journey, but my experience is that most people will mock you for wasting your time. Don't listen to them; you are the enlightened. Beat their mockery with results.
-- Feel free to write me, if you think I can be of any help on your journey. :)
 - If you intend to learn both a new layout and vim motions, start out with the layout as you wont have to rebind all shortcuts in your mucsle memory
 - Touch typing theory tells us to use the shift placed on the opposite side of the letter we want to type in upper case. But when you want to write entire words in uppercase, you have to either:
   - awkwardly alternate between the two shift keys
@@ -17,3 +16,5 @@
   - use one shift in one of the sides, say left, and then you have to move your hand to reach the keys that you pinky usually is in charge of.
   Instead I have placed the shift key on a thumb key. This way I can hold it down for whole sentences without worrying about any of the issues above.
 - If you use a custom mappable keyboard, concider where you place your back space. I placed it on the left side, next to the pinky and now I wish I had placed it under a stronger finger.
+
+Feel free to write me, if you think I can be of any help on your journey. :)
