@@ -11,3 +11,4 @@
 - Some people may encourage you on your journey, but my experience is that most people will mock you for wasting your time. Don't listen to them; you are the enlightened. Beat their mockery with results.
 - If you use a custom mappable keyboard, concider where you place your back space. I placed it on the left side, next to the pinky and now I wish I had placed it under a stronger finger.
 - Feel free to write me, if you think I can be of any help on your journey. :)
+- If you intend to learn both a new layout and vim motions, start out with the layout as you wont have to rebind all shortcuts in your mucsle memory
