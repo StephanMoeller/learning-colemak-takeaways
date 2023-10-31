@@ -7,6 +7,7 @@
 - Use codemonkey to track your progress, but use keybr.com to actually train. Keybr.com has very nice stats per letter and they make sentences with a mix of real and non-real words focused on making you learn the rolls on typical english phrases.
 - Until you feel you do no longer need to practise, always focus on accuracy, not speed. Ironically, this will eventually improve your speed a lot more. Its like the wax-on, wax-off where karate kid learns the motions in slow motion and then is able to do them fast.
 - Hand in and don't give up. Keep doing it.
+- Don't compare your speed and progress to others. I have been learning colemak for 5 months and I was waaaaay slower in progressing than all the youtubers I was watching for advice.
 - Some people may encourage you on your journey, but my experience is that most people will mock you for wasting your time. Don't listen to them; you are the enlightened. Beat their mockery with results.
 - If you use a custom mappable keyboard, concider where you place your back space. I placed it on the left side, next to the pinky and now I wish I had placed it under a stronger finger.
 - Feel free to write me, if you think I can be of any help on your journey. :)
