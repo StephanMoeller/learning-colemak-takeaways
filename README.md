@@ -16,5 +16,6 @@
   - use one shift in one of the sides, say left, and then you have to move your hand to reach the keys that you pinky usually is in charge of.
   Instead I have placed the shift key on a thumb key. This way I can hold it down for whole sentences without worrying about any of the issues above.
 - If you use a custom mappable keyboard, concider where you place your back space. I placed it on the left side, next to the pinky and now I wish I had placed it under a stronger finger.
-
+- Sometimes you go to your keyboard and do a typing test and the result is all of a sudden horrible and it feels like you forgot everything. Just walk away from the computer and come back in an hour. It is perfectly normal.
+- Age is no excuse to not learn another layout. I am 39 at the time of writing and I did it - so can you!
 Feel free to write me, if you think I can be of any help on your journey. :)
