@@ -1,6 +1,6 @@
 - List all excuses for not learning a new layout and decide whether to do it or not. And then stick to the plan.
 - Pick an optimal time, e.g. when getting your first split keyboard. When learning a new layout, using it on a ortholinear splitkeyboard will allow your brain to connect the old staggered rows with qwerty, allowing you to still be able to  use qwerty.
-- Choose the layout you like: try out workman, dvorak, coleman, etc. They all have their own feeling. Colemak focuses on rolls while dvorak focuses on switching hands as much as possible.
+- Choose the layout you like: try out workman, dvorak, colemak, etc. They all have their own feeling. Colemak focuses on rolls while dvorak focuses on switching hands as much as possible. I choose colemak as it is said to be easyer to learn for qwerty typers and ctrl+z,x,c,v,a are still (almost at the same spots)
 - Don't let single words get you down. When I first started learning colemak, the words "you" and "public" were words I hated. Go into concentrated mode and just repeat typing those single words until the fingers start typing them automatically. Now I feel look forward to these words.3
 - Start out by learning on a site with very few letters in the mix and keep training until you have at least 97% accuracy before continuing. The speed does really not matter at this stage.
 - Use blank keycaps to not let you look down. Don't even have a layout on your screen. Focus on memorising instead.
