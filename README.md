@@ -12,10 +12,12 @@
 - If you intend to learn both a new layout and vim motions, start out with the layout as you wont have to rebind all shortcuts in your mucsle memory
 - Touch typing theory tells us to use the shift placed on the opposite side of the letter we want to type in upper case. But when you want to write entire words in uppercase, you have to either:
   - awkwardly alternate between the two shift keys
-  - use caps lock which is just sucks if you type sql commands where you may want a mix of all-uppercase words and PascalCasing.
-  - use one shift in one of the sides, say left, and then you have to move your hand to reach the keys that you pinky usually is in charge of.
+  - use caps lock which just sucks if you type sql commands where you may want a mix of all-uppercase words and PascalCasing.
+  - use one shift in one of the sides, say left, and then you have to move your hand to reach the keys that you pinky on the left side usually is in charge of.
   Instead I have placed the shift key on a thumb key. This way I can hold it down for whole sentences without worrying about any of the issues above.
 - If you use a custom mappable keyboard, concider where you place your back space. I placed it on the left side, next to the pinky and now I wish I had placed it under a stronger finger.
 - Sometimes you go to your keyboard and do a typing test and the result is all of a sudden horrible and it feels like you forgot everything. Just walk away from the computer and come back in an hour. It is perfectly normal.
 - Age is no excuse to not learn another layout. I am 39 at the time of writing and I did it - so can you!
+- Being fast on monkeytype did not mean that I was fast when free typing. I have started practising useng the "zen" mode on monkeytype which allows you to write whatever. And then I try to write the lyrics comming from spotify. I can reach 95 wpm on an average attempt on normal monkeytype (25 word, english) but on zen mode my average is below 55. And zen mode replicates real life. You never have the text in front of you that you are about to type.
+
 Feel free to write me, if you think I can be of any help on your journey. :)
