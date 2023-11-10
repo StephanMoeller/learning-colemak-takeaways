@@ -1,4 +1,4 @@
-## Exscuses
+## Excuses
 - List all excuses for not learning a new layout and decide whether to do it or not. And then stick to the plan.
 - Age is no excuse to not learn another layout. I am 39 at the time of writing and I did it - so can you!
 
