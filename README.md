@@ -3,7 +3,7 @@
 - Choose the layout you like: try out workman, dvorak, colemak, etc. They all have their own feeling. Colemak focuses on rolls while dvorak focuses on switching hands as much as possible. I choose colemak as it is said to be easyer to learn for qwerty typers and ctrl+z,x,c,v,a are still (almost at the same spots) and I love the rolls!
 - Don't let single words get you down. When I first started learning colemak, the words "you" and "public" were words I hated. Go into concentrated mode and just repeat typing those single words until the fingers start typing them automatically. Now I feel look forward to these words.3
 - Start out by learning on a site with very few letters in the mix and keep training until you have at least 97% accuracy before continuing. The speed does really not matter at this stage.
-- Use blank keycaps to not let you look down. Don't even have a layout on your screen. Focus on memorising instead.
+- Use blank keycaps to not let you look down. Some people suggest that one has a picture of the keys on scree. I never tried that so I cannot tell if it speeds things up or not.
 - Use codemonkey to track your progress, but use keybr.com to actually train. Keybr.com has very nice stats per letter and they make sentences with a mix of real and non-real words focused on making you learn the rolls on typical english phrases.
 - Until you feel you do no longer need to practise, always focus on accuracy, not speed. Ironically, this will eventually improve your speed a lot more. Its like the wax-on, wax-off where karate kid learns the motions in slow motion and then is able to do them fast.
 - Hand in and don't give up. Keep doing it.
