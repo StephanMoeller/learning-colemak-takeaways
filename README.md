@@ -21,10 +21,10 @@
 
 ## Shift - what a bitch
 - Touch typing theory tells us to use the shift placed on the opposite side of the letter we want to type in upper case. But when you want to write entire words in uppercase, you have to either:
-- awkwardly alternate between the two shift keys
-- use caps lock which just sucks if you type sql commands where you may want a mix of all-uppercase words and PascalCasing.
-- use one shift in one of the sides, say left, and then you have to move your hand to reach the keys that you pinky on the left side usually is in charge of.
-- Instead I have placed the shift key on a thumb key. This way I can hold it down for whole sentences without worrying about any of the issues above.
+  - awkwardly alternate between the two shift keys
+  - use caps lock which just sucks if you type sql commands where you may want a mix of all-uppercase words and PascalCasing.
+  - use one shift in one of the sides, say left, and then you have to move your hand to reach the keys that you pinky on the left side usually is in charge of.
+Instead I have placed the shift key on a thumb key. This way I can hold it down for whole sentences without worrying about any of the issues above.
 
 ## Roundup
 - Hang in and don't give up. Keep doing it.
